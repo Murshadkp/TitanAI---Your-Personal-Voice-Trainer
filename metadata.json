@@ -1,0 +1,7 @@
+{
+  "name": "TitanAI - Your Personal Voice Trainer",
+  "description": "A high-performance, voice-driven AI fitness app that guides you through adaptive workouts in real-time using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
